@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Estudante de **Engenharia de Software** na UniFil  <br>🎮 Desenvolvedor de jogos 2D (Godot & GDScript)  <br>💻 Entusiasta de **Linux, Custom OS e Arch-based systems**<br><br>Sou apaixonado por entender como as coisas funcionam, desde a lógica de estruturas de dados até o design de mecânicas e pixel art para jogos indie. <br><br>* 🛠️ **Desenvolvimento:** Java, Web (HTML/CSS/JS/TS), SQL & PostgreSQL.<br>* 🕹️ **Game Dev:** Criando jogos 2D no **Godot Engine**, do GDScript à arte e sistemas de jogo.<br>* 🐧 **Ambiente de Trabalho:** Entusiasta de ambientes customizados em Linux (Tiling Window Managers, Dotfiles e personalização de workflow).<br>* 📝 **Criação de Conteúdo:** Escrevo e produzo análises/ensaios focados em game design, escolhas narrativas e dilemas morais nos videogames.</p>
+<p data-importer="text" align="left">🎓 Estudante de <b>Engenharia de Software</b> na UniFil  <br>🎮 Desenvolvedor de <b>Jogos 2D (Godot & GDScript)</b>  <br>💻 Entusiasta de <b>Linux, Custom OS e Arch-based systems</b><br><br>Sou apaixonado por entender como as coisas funcionam, desde a lógica de estruturas de dados até o design de mecânicas e pixel art para jogos indie. <br><br> 🛠️ <b>Desenvolvimento:</b> Java, Web (HTML/CSS/JS/TS), SQL & PostgreSQL.<br> 🕹️ <b>Game Dev:</b> Criando jogos 2D no <b>Godot Engine</b>, do GDScript à arte e sistemas de jogo.<br> 🐧 <b>Ambiente de Trabalho:</b> Entusiasta de ambientes customizados em Linux (Tiling Window Managers, Dotfiles e personalização de workflow).<br> 📝 <b>Criação de Conteúdo:</b> Escrevo e produzo análises/ensaios focados em game design, escolhas narrativas e dilemas morais nos videogames.</p>
 
 ###
 
