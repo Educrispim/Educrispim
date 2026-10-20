@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <a href="https://educrispim.github.io/Portfolio/index.html" target:_blank>🚀 <b>Portfólio</b></a>
+  <a href="https://educrispim.github.io/Portfolio/index.html" target:"_blank">🚀 <b>Portfólio</b></a>
 </div>
 
 ###
